@@ -21,12 +21,13 @@
     + exercises.ipynb ...Jupyterで実行する用
     + exercise/* ...エクササイズで使うデータセット 
 + テキストマイニング講義関連
+    + preprocessing.* ...データ前処理: RMeCabの基礎
     + analysis01.* ...分析①『夢十夜』の分析
     + analysis02.* ...分析②『こころ』の分析
     + functions.r ...分析で使う関数
     + data/* ...分析で使うデータ
     + dict/* ...分析用の辞書の例
-    + preprocessing.* ...データ前処理: RMeCabの基礎
+    + report_example/* ...レポートの例
 
 
 ### 分析用コード
@@ -104,4 +105,3 @@ rファイル(.r)とipynbファイル(.ipynb)があります。
 ## Notes
 
 2021.06.25 ファイルをアップロード
-
